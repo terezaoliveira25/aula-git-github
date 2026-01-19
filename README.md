@@ -1,10 +1,6 @@
 
 <img src="https://static.vecteezy.com/ti/vetor-gratis/p1/15615115-lista-de-comandos-git-programacao-repositorio-de-codigo-de-tecnologia-nuvem-online-ilustracaoial-gratis-vetor.jpg">
 
-Claro! Abaixo está um **tutorial básico e prático de comandos do Git para versionamento de código com o GitHub**, escrito **em Markdown**, ideal para iniciantes.
-
----
-
 # 📘 Tutorial de Git e GitHub (Comandos Essenciais)
 
 Este guia apresenta os principais comandos do **Git** usados no versionamento de código e na integração com o **GitHub**.
