@@ -1,4 +1,3 @@
-# full-stack
 
 <img src="https://static.vecteezy.com/ti/vetor-gratis/p1/15615115-lista-de-comandos-git-programacao-repositorio-de-codigo-de-tecnologia-nuvem-online-ilustracaoial-gratis-vetor.jpg">
 
