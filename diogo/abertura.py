@@ -1,0 +1,1 @@
+abertura = "Hello World"
